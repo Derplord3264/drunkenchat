@@ -12,7 +12,7 @@ document.getElementById('joinChat').addEventListener('click', () => {
 });
 
 function initChat() {
-    const clientId = 'your-scaledrone-channel-id';
+    const clientId = 'yQtCFPNcmCHSYBHC';
 
     const drone = new ScaleDrone(clientId, {
         data: { name: username }
